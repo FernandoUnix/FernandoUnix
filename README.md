@@ -33,9 +33,7 @@
 - Cybersecurity and Ethical Hacking  * Progress 72% *
 -->
 ### 📫 Onde você pode me encontrar
-<!-- - [Twitter](https://twitter.com/stephenajulu) 🐤-->
-- [LinkedIn](https://linkedin.com/in/stephenajulu) 👨💼
-<!--- [Website](https://stephenajulu.com) 😏🔗-->
-- [Blog](https://ajulusthoughts.wordpress.com) 🤓💻
-<!--- [Additional Ways](https://stephenajulu.com/links) 🔗🔗-->
-<!--- [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌->
+
+- [LinkedIn](https://www.linkedin.com/in/fernandounix) 👨💼
+- [Medium](https://medium.com/@fernandounix) 🤓💻
+
