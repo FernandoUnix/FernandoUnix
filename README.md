@@ -7,7 +7,7 @@
 </p>
 -->
 
-<h2 align="center">Hello there! Meu nome é Fernando José. 👋🤓</h2>
+<h2 align="center">Me chamo Fernando José. 👋🤓</h2>
 <p align="center">Eu sou Engenheiro de Software Full Stack, moro em Goiânia-GO, tenho experiência com tecnologias Java, C# e Javascript</p>
 <!--
 <em><p align="center"><a href="https://stephenajulu.com">My Personal Website and Portfolio Built with Jekyll, Hosted on Github, DNS Cloudflare</a></p></em>
@@ -32,6 +32,7 @@
 - AI & Machine Learning  * Progress 13% *
 - Cybersecurity and Ethical Hacking  * Progress 72% *
 -->
+
 ### 📫 Onde você pode me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/fernandounix) 👨💼
