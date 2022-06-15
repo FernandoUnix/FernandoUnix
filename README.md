@@ -26,6 +26,9 @@
 
 <h4>Skills and Tools: </h4>
 <p align="left">
+	<img style="margin: auto;" src="https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://destatic.blob.core.windows.net/images/spring-boot-logo.png" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
