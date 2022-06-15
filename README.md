@@ -5,15 +5,15 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working as: **Full-Stack Java Application**
+- 👨🏽‍💻 I’m currently working as: **Full-Stack Java Application**
 - 🌱 I’m currently learning: **Azure, AWS, Docker, Kubernetes, Microservices etc...**
 - 🎓  Education:<br>
-  **Bachelor's Degree, Information Systems 2013-2016**<br>
-  **Graduate degree, Software Architecture and Engineering 2018-2021**<br>
-- 🎓  Certifications:<br>
-  **OCAJP8(Certified Associate, Java SE 8 Programmer)**<br>
-  **OCPJP8(Certified Professional, Java SE 8 Programmer)**<br>
-  **AZ-900(Microsoft Certified: Azure Fundamentals)**
+  **- Bachelor's Degree, Information Systems 2013-2016**<br>
+  **- Graduate degree, Software Architecture and Engineering 2018-2021**<br>
+- ⭐️  Certifications:<br>
+  **- OCAJP8(Certified Associate, Java SE 8 Programmer)**<br>
+  **- OCPJP8(Certified Professional, Java SE 8 Programmer)**<br>
+  **- AZ-900(Microsoft Certified: Azure Fundamentals)**
 - 💬 Ask me about: **Web Develpoment**
 - ⚡ Fun fact: **Anime and Languagues**❤
 - 📫 How to reach me: **01fernando.ti@gmail.com**
