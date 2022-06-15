@@ -1,22 +1,22 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Fernando</h1>
 
 
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
-<h3 align="center">Bachelor's Degree, Information Systems 2013-2016</h3>
-<h3 align="center">Graduate degree, Software Architecture and Engineering 2018-2021</h3>
+<h3 align="center">A passionate Full-Stack Developer from Brazil</h3>
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
-- 🔭 I’m currently working as **Full-Stack Java Application**
-- 🌱 I’m currently learning ... **Azure, AWS, Docker, Kubernetes, Microservices etc...**
-- 🎓  Certifications ...<br>
-  &nbsp; **OCAJP8(Certified Associate, Java SE 8 Programmer)**<br>
-  &nbsp; **OCPJP8(Certified Professional, Java SE 8 Programmer)**<br>
-  &nbsp; **AZ-900(Microsoft Certified: Azure Fundamentals)**
-- 💬 Ask me about ... **Web Develpoment**
-- ⚡ Fun fact ... **Anime and Languagues**❤
-- 📫 How to reach me **01fernando.ti@gmail.com**
+- 🔭 I’m currently working as: **Full-Stack Java Application**
+- 🌱 I’m currently learning: **Azure, AWS, Docker, Kubernetes, Microservices etc...**
+- 🎓  Education:<br>
+  **Bachelor's Degree, Information Systems 2013-2016**<br>
+  **Graduate degree, Software Architecture and Engineering 2018-2021**<br>
+- 🎓  Certifications:<br>
+  **OCAJP8(Certified Associate, Java SE 8 Programmer)**<br>
+  **OCPJP8(Certified Professional, Java SE 8 Programmer)**<br>
+  **AZ-900(Microsoft Certified: Azure Fundamentals)**
+- 💬 Ask me about: **Web Develpoment**
+- ⚡ Fun fact: **Anime and Languagues**❤
+- 📫 How to reach me: **01fernando.ti@gmail.com**
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://aux3.iconspalace.com/uploads/60768161543862899.png" alt=cplusplus width="60" height="60"/>
