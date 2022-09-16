@@ -12,7 +12,8 @@
 - ⭐️  Certifications:<br>
   **- OCAJP8(Certified Associate, Java SE 8 Programmer)**<br>
   **- OCPJP8(Certified Professional, Java SE 8 Programmer)**<br>
-  **- AZ-900(Microsoft Certified: Azure Fundamentals)**
+  **- Exame AZ-900: Microsoft Azure Fundamentals**
+  **- Exame AZ-204: Developing Solutions for Microsoft Azure**
 - 🌱 I’m currently learning: **Azure, AWS, Docker, Kubernetes, Microservices etc...**
 - 💬 Ask me about: **Web Develpoment**
 - ⚡ Fun fact: **Anime and Languagues**❤
