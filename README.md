@@ -10,8 +10,8 @@
   **- Bachelor's Degree, Information Systems 2013-2016**<br>
   **- Graduate degree, Software Architecture and Engineering 2018-2021**<br>
 - ⭐️  Certifications:<br>
-  **- OCAJP8 : Certified Associate, Java SE 8 Programmer)**<br>
-  **- OCPJP8 : Certified Professional, Java SE 8 Programmer)**<br>
+  **- OCAJP8 : Certified Associate, Java SE 8 Programmer**<br>
+  **- OCPJP8 : Certified Professional, Java SE 8 Programmer**<br>
   **- AZ-900 : Microsoft Azure Fundamentals**<br>
   **- AZ-204 : Developing Solutions for Microsoft Azure**
   **- AZ-400: Designing and Implementing Microsoft DevOps Solutions**
