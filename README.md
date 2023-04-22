@@ -13,7 +13,7 @@
   **- OCAJP8 : Certified Associate, Java SE 8 Programmer**<br>
   **- OCPJP8 : Certified Professional, Java SE 8 Programmer**<br>
   **- AZ-900 : Microsoft Azure Fundamentals**<br>
-  **- AZ-204 : Developing Solutions for Microsoft Azure**
+  **- AZ-204 : Developing Solutions for Microsoft Azure**<br>
   **- AZ-400: Designing and Implementing Microsoft DevOps Solutions**
 - 🌱 I’m currently learning: **Azure, AWS, Docker, Kubernetes, Microservices etc...**
 - 💬 Ask me about: **Web Develpoment**
