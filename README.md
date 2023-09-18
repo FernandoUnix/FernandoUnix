@@ -12,6 +12,7 @@
 - ⭐️  Certifications:<br>
   **- OCAJP8 : Certified Associate, Java SE 8 Programmer**<br>
   **- OCPJP8 : Certified Professional, Java SE 8 Programmer**<br>
+  **- SAA-C03 - AWS Certified Solutions Architect**<br>
   **- CLF-C01: AWS Certified Cloud Practitioner**<br>
   **- AZ-900 : Microsoft Azure Fundamentals**<br>
   **- AZ-204 : Developing Solutions for Microsoft Azure**<br>
