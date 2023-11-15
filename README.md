@@ -1,9 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/hi.gif" width="30px">, I'm Fernando</h1>
+<h1 align="center">Hi, I'm Fernando</h1>
 
 
 <h3 align="center">A passionate Full-Stack Developer from Brazil</h3>
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/github.svg" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/github.svg" />
 
 - 👨🏽‍💻 I’m currently working as: **Full-Stack Java Application**
 - 🎓  Education:<br>
@@ -58,7 +58,4 @@
 
 
 ### 👨 Social
-<!--
-reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
--->
 [<img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/linkedin.svg" />](https://www.linkedin.com/in/fernandounix)
