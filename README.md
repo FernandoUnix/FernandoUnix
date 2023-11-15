@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fernando</h1>
+<h3 align="center">A passionate Software Engineer from Brazil</h3>
 
-
-<h3 align="center">A passionate Full-Stack Developer from Brazil</h3>
+<h4> Highly qualified professional with 7 certifications and over 7 years of professional experience in design, development, testing, and optimization of software applications, striving to provide the best solutions in the market, specializing in Java software development, application testing, microservices, and cloud solutions. A strong track record of developing innovative and secure software and banking applications for over 10 million active users and experience in international projects with more than 100,000 clients in 30 countries. </h4>
 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/github.svg" />
 
@@ -9,6 +9,10 @@
 - 🎓  Education:<br>
   **- Bachelor's Degree, Information Systems 2013-2016**<br>
   **- Graduate degree, Software Architecture and Engineering 2018-2021**<br>
+- 🌍 Languages:<br>
+  **- English**<br>
+  **- Spanish**<br>
+  **- Portuguese**<br>
 - ⭐️  Certifications:<br>
   **- OCAJP8 : Certified Associate, Java SE 8 Programmer**<br>
   **- OCPJP8 : Certified Professional, Java SE 8 Programmer**<br>
