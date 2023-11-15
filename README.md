@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate Full-Stack Developer from Brazil</h3>
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/github.svg" />
 
 - 👨🏽‍💻 I’m currently working as: **Full-Stack Java Application**
 - 🎓  Education:<br>
@@ -23,37 +23,37 @@
 - 📫 How to reach me: **01fernando.ti@gmail.com**
 <h4>Programming Languages: </h4>
 <p align="left">
- <img style="margin: auto;" src="https://aux3.iconspalace.com/uploads/60768161543862899.png" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="https://w7.pngwing.com/pngs/498/19/png-transparent-csharp-original-logo-icon.png" alt=c width="60" height="60"/>
- <img style="[margin: auto;" src="https://logospng.org/download/javascript/logo-javascript-1024.png" alt=python width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/java.png" alt="Java" width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/csharp.png" alt="C#" width="60" height="60"/>
+ <img style="[margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/js.png" alt="Java Script" width="60" height="60"/>
 </p>
 
 <h4>Skills and Tools: </h4>
 <p align="left">
-	<img style="margin: auto;" src="https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://destatic.blob.core.windows.net/images/spring-boot-logo.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://cdn.freebiesupply.com/logos/large/2x/hibernate-logo-png-transparent.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/jquery.png" alt=jquery width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/gulp.png" alt=gulp width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" alt=postgresql width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
- 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/spring.png" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/springboot.png" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/hibernate.png" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/html.png" alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/css.png" alt=css3 width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/bootstrap.png" alt=bootstrap width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/jquery.png" alt=jquery width="60" height="60"/>
+        <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/js.png" alt=javascript width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/gulp.png" alt=gulp width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/mondodb.png" alt=mongodb width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/mysql.png" alt=mysql width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/postgresql.png" alt=postgresql width="60" height="60"/> 
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/git-logo.png" alt=git width="60" height="60"/>
+        <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/github.png" alt=github width="60" height="60"/>
+
 </p>
 
 <h4>Desktop Environment: </h4>
 <p align="left">
-    <img style="margin: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt=vs width="60" height="60"/>
-  <img style="margin: auto;" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" alt=vs width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
+    <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/intelij.png" alt=vs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/postman.png" alt=vs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/vscode.png" alt=vs width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/linux.png" alt=linux width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/ubuntu.png" alt=ubuntu width="60" height="60"/>
 </p>
 
 
@@ -61,4 +61,4 @@
 <!--
 reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fernandounix)
+[<img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/linkedin.svg" />](https://www.linkedin.com/in/fernandounix)
