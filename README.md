@@ -24,7 +24,7 @@
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://aux3.iconspalace.com/uploads/60768161543862899.png" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="[https://raw.githubusercontent.com/sschmid/Entitas-CSharp/develop/Readme/Images/csharp.png](https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png)" alt=c width="60" height="60"/>
+ <img style="margin: auto;" src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png" alt=c width="60" height="60"/>
  <img style="[margin: auto;" src="https://logospng.org/download/javascript/logo-javascript-1024.png" alt=python width="60" height="60"/>
 </p>
 
