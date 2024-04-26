@@ -38,12 +38,15 @@
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/java.png" alt="Java" width="60" height="60"/>
+ <img style="[margin: auto;" src="https://github.com/FernandoUnix/FernandoUnix/blob/master/assets/py.png" alt="Python" width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/csharp.png" alt="C#" width="60" height="60"/>
  <img style="[margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/js.png" alt="Java Script" width="60" height="60"/>
 </p>
 
 <h4>Skills and Tools: </h4>
 <p align="left">
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/gcp.png" alt=html5 width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/terraform.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/spring.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/springboot.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/hibernate.png" alt=html5 width="60" height="60"/> 
@@ -63,7 +66,7 @@
 
 <h4>Desktop Environment: </h4>
 <p align="left">
-    <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/intelij.png" alt=vs width="60" height="60"/>
+    <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/intelij.png" alt=gcp width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/postman.png" alt=vs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/vscode.png" alt=vs width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/linux.png" alt=linux width="60" height="60"/>
