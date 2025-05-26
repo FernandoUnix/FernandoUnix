@@ -3,7 +3,7 @@
 
 <h4> Experienced IT Professional | Expert in Software Development, Testing, and Optimization </h4>
 
-<h4> Dedicated and results-driven IT professional with over 8 years of hands-on experience in designing, developing, testing, and optimizing cutting-edge software applications. With a proven track record of delivering top-tier solutions in the market, I specialize in Java software development, application testing, microservices, and cloud solutions. </h4>
+<h4> Dedicated and results-driven IT professional with over 10 years of hands-on experience in designing, developing, testing, and optimizing cutting-edge software applications. With a proven track record of delivering top-tier solutions in the market, I specialize in Java software development, application testing, microservices, and cloud solutions. </h4>
 
 <h4> Alongside my proficiency in development, I possess hands-on experience in DevOps methodologies. This includes adeptness in managing Cloud Infrastructure, particularly on Google Cloud Platform, utilizing tools like Terraform for infrastructure as code, Kubernetes, implementing CI/CD pipelines, and fostering Containerized Application Development.</h4>
 
