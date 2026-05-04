@@ -23,6 +23,7 @@
   **- English**<br>
   **- Spanish**<br>
   **- Portuguese**<br>
+  **- French** (Beginning)<br>
 - ⭐️  Certifications:<br>
   **- OCAJP8 : Certified Associate, Java SE 8 Programmer**<br>
   **- OCPJP8 : Certified Professional, Java SE 8 Programmer**<br>
