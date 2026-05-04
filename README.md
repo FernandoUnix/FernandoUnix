@@ -36,42 +36,49 @@
 - ⚡ Fun fact: **Anime and Languagues**❤
 - 📫 How to reach me: **01fernando.ti@gmail.com**
 <h4>Programming Languages: </h4>
-<p align="left">
- <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/java.png" alt="Java" width="60" height="60"/>
- <img style="[margin: auto;" src="https://github.com/FernandoUnix/FernandoUnix/blob/master/assets/py.png" alt="Python" width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/csharp.png" alt="C#" width="60" height="60"/>
- <img style="[margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/js.png" alt="Java Script" width="60" height="60"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/java.png" alt="Java" width="60" height="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/py.png" alt="Python" width="60" height="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/csharp.png" alt="C#" width="60" height="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/js.png" alt="JavaScript" width="60" height="60"/></td>
+  </tr>
+</table>
 
 <h4>Skills and Tools: </h4>
-<p align="left">
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/gcp.png" alt=html5 width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/terraform.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/spring.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/springboot.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/hibernate.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/html.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/css.png" alt=css3 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/bootstrap.png" alt=bootstrap width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/jquery.png" alt=jquery width="60" height="60"/>
-        <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/js.png" alt=javascript width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/gulp.png" alt=gulp width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/mondodb.png" alt=mongodb width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/mysql.png" alt=mysql width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/postgresql.png" alt=postgresql width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/git-logo.png" alt=git width="60" height="60"/>
-        <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/github.png" alt=github width="60" height="60"/>
-
-</p>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/gcp.png" width="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/terraform.png" width="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/spring.png" width="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/springboot.png" width="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/hibernate.png" width="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/html.png" width="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/css.png" width="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/bootstrap.png" width="60"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/jquery.png" width="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/js.png" width="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/gulp.png" width="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/mondodb.png" width="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/mysql.png" width="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/postgresql.png" width="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/git-logo.png" width="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/github.png" width="60"/></td>
+  </tr>
+</table>
 
 <h4>Desktop Environment: </h4>
-<p align="left">
-    <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/intelij.png" alt=gcp width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/postman.png" alt=vs width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/vscode.png" alt=vs width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/linux.png" alt=linux width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/ubuntu.png" alt=ubuntu width="60" height="60"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/intelij.png" alt="IntelliJ" width="60" height="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/postman.png" alt="Postman" width="60" height="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/vscode.png" alt="VS Code" width="60" height="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/linux.png" alt="Linux" width="60" height="60"/></td>
+    <td><img src="https://raw.githubusercontent.com/FernandoUnix/FernandoUnix/master/assets/ubuntu.png" alt="Ubuntu" width="60" height="60"/></td>
+  </tr>
+</table>
 
 
 ### 👨 Social
