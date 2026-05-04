@@ -19,7 +19,7 @@
 - 🎓  Education:<br>
   **- Bachelor's Degree, Information Systems 2013-2016**<br>
   **- Graduate degree, Software Architecture and Engineering 2018-2021**<br>
-- 🌍 Languages:<br>
+- 🌍 I can speak:<br>
   **- English**<br>
   **- Spanish**<br>
   **- Portuguese**<br>
